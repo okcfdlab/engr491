@@ -4,8 +4,11 @@ Joshua Brinkerhoff
 UBC Okanagan
 joshua.brinkerhoff@ubc.ca
 
+## How to use this course
 
 ## Exercises
+
+[Exercise 0 - Introduction to Python](https://nbviewer.jupyter.org/github/barbagroup/CFDPython/blob/master/lessons/00_Quick_Python_Intro.ipynb) This exercise is borrowed from Dr. Lorena Barba's excellent resource _12 Steps to Navier-Stokes_. Source: Barba, Lorena A., and Forsyth, Gilbert F. (2018). CFD Python: the 12 steps to Navier-Stokes equations. Journal of Open Source Education, 1(9), 21, [https://doi.org/10.21105/jose.00021](https://doi.org/10.21105/jose.00021)
 
 [Exercise 1 - Numerical differentiation using finite differences](https://nbviewer.jupyter.org/github/okcfdlab/engr491/blob/master/exercises/01_Exercise1.ipynb)
 
