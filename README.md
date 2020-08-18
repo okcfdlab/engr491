@@ -53,6 +53,8 @@ conda update conda
 conda update jupyter numpy sympy scipy matplotlib
 ```
 
+If you are unfamiliar with running terminal commands, you can use the Anaconda Navigator to ensure that the above packages are installed into your base environment.
+
 #### Without Anaconda
 If you already have Python installed on your machine, you can install Jupyter using pip:
 
