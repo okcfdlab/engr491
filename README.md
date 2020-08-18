@@ -1,10 +1,14 @@
-# ENGR 491 CFD Course Notes
+# ENGR 491 - Computational Fluid Dynamics
 
 Joshua Brinkerhoff
+
 UBC Okanagan
+
 joshua.brinkerhoff@ubc.ca
 
 ## How to use this course
+
+These exercises are inspired by Dr. Lorena Barba's [CFD Python: 12 Steps to Navier-Stokes](https://github.com/barbagroup/CFDPython/blob/master/README.md). 
 
 ## Exercises
 
