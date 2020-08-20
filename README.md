@@ -6,7 +6,7 @@ UBC Okanagan
 
 joshua.brinkerhoff@ubc.ca
 
-## How to use this course
+## How to use this resource
 
 These exercises are inspired by Dr. Lorena Barba's [CFD Python: 12 Steps to Navier-Stokes](https://github.com/barbagroup/CFDPython/blob/master/README.md). They are intended to accompany Dr. Brinkerhoff's ENGR 491 CFD course at UBC Okanagan. The exercises roughly mirror the order that material is presented in ENGR 491. If students conduct about one exercise per week, they will be remain abreast of the lectures from ENGR 491.
 
