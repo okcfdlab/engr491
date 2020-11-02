@@ -40,6 +40,8 @@ Here is how I recommend students to use these exercises.
 
 [Exercise 9 - Fully-developed flow in a turbulent channel](https://nbviewer.jupyter.org/github/okcfdlab/engr491/blob/master/exercises/09_Exercise9.ipynb)
 
+[Exercise 10 - Solving the 2D diffusion equation via finite volume method](https://nbviewer.jupyter.org/github/okcfdlab/engr491/blob/master/exercises/10_Exercise10.ipynb)
+
 ## Setup instructions
 
 To use these lessons, you need Python 3, and the standard stack of scientific Python: NumPy, Matplotlib, SciPy, Sympy. And of course, you need [Jupyter](http://jupyter.org)—an interactive computational environment that runs on a web browser. The exercises are built as a set of [Jupyter notebooks](https://jupyter-notebook.readthedocs.org/en/latest/notebook.html) containing written introductions and explanations of the solution as well as complete working solutions implemented as Python code. To work through the exercises, start a new notebook and follow along with the provided materials, avoiding the temptation to copy and paste. As you face hurdles, the solution is available for you to consult. Once you have completed an exercise, test it to make sure you get the same output as what's provided. Experiment with your solution by changing solution parameters and see how they affect the accuracy and time required for the solution.
